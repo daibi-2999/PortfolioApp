@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="skills">
+    COMPUTER SKILLS\n
+ MySQL\n
+ DBMS\n
+ Python\n
+ C++ Language\n
+ RDBMS\n
+ Machine Learning\n
+ HTML\n
+ CSS\n
+ Javascript\n
+ OOPs\n
+ MS Office\n
+ Advanced MS Excel\n
+ Tableau\n
+</string>
+
+ <string name="education">
+  1.Birla Institute of Technology, Mesra , India (07/2018- 05-2018)-\n
+Integrated Master of Science in Mathematics and Computing GPA-7.76\n
+2.Delhi Public School, Bokaro Steel City, India (07/2016-03/2018)\n
+Class 12, CBSE Percentage in Science-82.2%\n
+3.Delhi Public School, Bokaro Steel city, India (04/2015-03/2016)\n
+Class 10, CBSE CGPA-10\n
+ </string>
+
+ <string name="workexperience">
+  1. Tata Steel: Summer Internship-Project on House Price Prediction (01/2023-04/2023)\n
+
+
+  2. College Project, BIT Mesra: Probabilistic Analysis of some Ragas of Thaat Kafi (01/2023-05/2023)\n
+ Evaluated conditional probability to identify the Ragas By Transition Probability Matrix and unconditional probability to plot\n
+ Andrews curves using Python to judge the similarity amongst the curves.\n
+
+
+  3. 4th Indian Workshop on Applied Deep Learning (06/2023-06/2023)\n
+  workshop included architecture that demonstrated the potential to solve a broad range of computer vision and NLP\n
+ problems, achieving optimization over high dimensional parametric space.\n
+
+
+  4. Feynn Labs :Machine Learning Internship- (06/2023-08/2023)AI Product/Service Prototype Ideation-During this period,I have come up with a product Idea of Heart Attack Prediction App\n
+ using Machine Learning and gave a business modeling diagram.\n
+
+
+  5. Zummit Infolabs :Deep Learning Internship (08/2023-12/2023)\n
+   make projects on RNN, LSTM, CNN, image recognition, Facial Features detection, MNIST Handwritten digits using CNN\n
+ make projects on AlexNet- image classification of Cifar dataset having airplanes, dogs, ship, birds etc using AlexNet, Object\n
+ detection using YOLO, Program to classify email spam or not\n
+ </string>
+
+ <string name="achievements">
+ 1.Recieved first position in Insignia-Poster Making Competition at BIT Mesra.\n
+ 2.Sangeet Vishaarad in Hindustani classical Music.\n
+ 3.4 Stars(silver) in Python- Hackerank.\n
+ 4.4 Stars(silver) in SQL -Hackerank.\n
+ 5.My College Project/Thesis "Probabilistic Analysis of Some Ragas of Thata Kafi" is Published
+as a book.\n
+ </string>
+</resources>
